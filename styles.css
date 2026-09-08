@@ -27,6 +27,9 @@ h1 span { color: #63748a; }
 .meeting-details { display: flex; flex-wrap: wrap; gap: 12px 28px; margin-top: 32px; font-size: 20px; font-weight: 500; line-height: 1.5; }
 .meeting-details > span + span { border-left: 1px solid #cbd0d7; padding-left: 28px; }
 .detail-divider { color: #acb3bc; margin: 0 9px; }
+.group-description { max-width: 65ch; margin: 24px 0 14px; color: var(--muted); font-size: 15px; line-height: 1.75; }
+.signup-link { display: inline-block; padding: 4px 0; font-size: 14px; font-weight: 500; }
+.signup-link span { display: inline-block; margin-left: 6px; }
 .schedule { scroll-margin-top: 28px; }
 .section-heading { display: flex; justify-content: space-between; align-items: center; gap: 16px; border-top: 1px solid var(--navy); padding-top: 25px; }
 h2 { font: 400 27px Georgia, "Times New Roman", serif; letter-spacing: -.035em; margin: 0; }
