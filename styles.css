@@ -47,6 +47,7 @@ tbody th, tbody td { padding: 21px 16px 21px 0; vertical-align: top; line-height
 tbody th { font-weight: 450; }
 .presenters { min-height: 3.1em; }
 .presenters span { display: block; }
+.presenter-role { color: var(--muted); font-size: .9em; }
 .paper-list { margin: 0; padding-left: 18px; }
 .paper-list li + li { margin-top: 12px; }
 time { color: var(--muted); font-size: 13px; white-space: nowrap; font-variant-numeric: tabular-nums; }
